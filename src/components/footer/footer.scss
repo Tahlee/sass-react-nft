@@ -1,0 +1,35 @@
+.f-p-style{
+   p{
+    color:grey;
+    font-size: 12px;
+
+   } 
+}
+.fs-p-style{
+
+    p{
+        color:rgb(102, 98, 98);
+    font-size: 14px;
+    }
+}
+.p1-s-style{
+
+    p{
+        color:rgba(0, 0, 0, 0.61);
+        font-size: 1.3rem;
+    }
+}
+.form-group{
+    border-radius: 20px!important;
+}
+.last-p{
+    color:grey;
+    font-size: 12px;
+}
+
+@media only screen and (min-width:320px) and (max-width:767px){
+
+    .p1-s-style{
+        text-align: left!important;
+    }
+}
