@@ -349,13 +349,13 @@ const index = () => {
                     <div className="col-lg-3 col-md-6 col-12">
                         <img src={One} />
                         <div className="row mt-3">
-                            <div className="col-8">
+                            <div className="col-7 col-lg-8 col-md-7">
                                 <div className=" d-flex ">
                                     <p>&nbsp; <b><span className="">Amazing digital Art</span></b></p>
                                 </div>
                             </div>
 
-                            <div className="col-4">
+                            <div className="col-5 col-lg-4 col-md-5">
 
                                 <button class="btn btn-style">2.45 Eth</button> <br></br>
                                 <p className="">3 in stock</p>
@@ -386,13 +386,13 @@ const index = () => {
                         <img src={Overlay} />
 
                         <div className="row mt-3">
-                            <div className="col-8">
+                            <div className="col-7 col-lg-8 col-md-7">
                                 <div className=" d-flex ">
                                     <p>&nbsp; <b><span className="">Amazing digital Art</span></b></p>
                                 </div>
                             </div>
 
-                            <div className="col-4">
+                            <div className="col-5 col-lg-4 col-md-5">
 
                                 <button class="btn btn-style">2.45 Eth</button> <br></br>
                                 <p className="">3 in stock</p>
@@ -424,13 +424,13 @@ const index = () => {
                         <img src={two} />
 
                         <div className="row mt-3">
-                            <div className="col-8">
+                            <div className="col-7 col-lg-8 col-md-7">
                                 <div className=" d-flex ">
                                     <p>&nbsp; <b><span className="">Amazing digital Art</span></b></p>
                                 </div>
                             </div>
 
-                            <div className="col-4">
+                            <div className="col-5 col-lg-4 col-md-5">
 
                                 <button class="btn btn-style">2.45 Eth</button> <br></br>
                                 <p className="">3 in stock</p>
@@ -461,13 +461,13 @@ const index = () => {
                         <img src={Img3} />
 
                         <div className="row mt-3">
-                            <div className="col-8">
+                            <div className="col-7 col-md-7 col-lg-8">
                                 <div className=" d-flex ">
                                     <p>&nbsp; <b><span className="">Amazing digital Art</span></b></p>
                                 </div>
                             </div>
 
-                            <div className="col-4">
+                            <div className="col-5 col-lg-4 col-md-5">
 
                                 <button class="btn btn-style">2.45 Eth</button> <br></br>
                                 <p className="">3 in stock</p>
@@ -504,14 +504,14 @@ const index = () => {
                     <div className="col-lg-4 col-md-4 col-12 ">
                         <img src={Three3} />
                         <div className="row mt-3 border-none">
-                            <div className="col-3 col-lg-4 col-md-4">
+                            <div className="col-4 col-lg-4 col-md-4">
                                 <img src={Logo1} />
                             </div>
-                            <div className="col-3 col-lg-4 col-md-4">
+                            <div className="col-4 col-lg-4 col-md-4">
                                 <img src={Logo2} />
                             </div>
 
-                            <div className="col-3 col-lg-4 col-md-4">
+                            <div className="col-4 col-lg-4 col-md-4">
                                 <img src={Logo3} />
                             </div>
                         </div>
@@ -525,7 +525,7 @@ const index = () => {
                                 </div>
                             </div>
 
-                            <div className="col-3 col-md-4 col-lg-6 p-set d-flex justify-content-end">
+                            <div className="col-6 col-md-4 col-lg-6 p-set d-flex justify-content-end">
                                 <p><b>28 Items</b></p>
                             </div>
                         </div>
@@ -534,14 +534,14 @@ const index = () => {
                         <img src={Two2} />
 
                         <div className="row mt-3 border-none">
-                            <div className="col-3 col-lg-4 col-md-4">
+                            <div className="col-4 col-lg-4 col-md-4">
                                 <img src={Logo1} />
                             </div>
-                            <div className="col-3 col-lg-4 col-md-4">
+                            <div className="col-4 col-lg-4 col-md-4">
                                 <img src={Logo2} />
                             </div>
 
-                            <div className="col-3 col-lg-4 col-md-4">
+                            <div className="col-4 col-lg-4 col-md-4">
                                 <img src={Logo3} />
                             </div>
                         </div>
@@ -555,7 +555,7 @@ const index = () => {
                                 </div>
                             </div>
 
-                            <div className="col-3 col-md-4 col-lg-6 p-set d-flex justify-content-end">
+                            <div className="col-6 col-md-4 col-lg-6 p-set d-flex justify-content-end">
                                 <p><b>28 Items</b></p>
                             </div>
                         </div>
@@ -565,14 +565,14 @@ const index = () => {
                         <img src={One1} />
 
                         <div className="row mt-3 border-none">
-                            <div className="col-3 col-lg-4 col-md-4">
+                            <div className="col-4 col-lg-4 col-md-4">
                                 <img src={Logo1} />
                             </div>
-                            <div className="col-3 col-lg-4 col-md-4">
+                            <div className="col-4 col-lg-4 col-md-4">
                                 <img src={Logo2} />
                             </div>
 
-                            <div className="col-3 col-lg-4 col-md-4">
+                            <div className="col-4 col-lg-4 col-md-4">
                                 <img src={Logo3} />
                             </div>
                         </div>
@@ -586,7 +586,7 @@ const index = () => {
                                 </div>
                             </div>
 
-                            <div className="col-3 col-lg-6 col-md-4 p-set d-flex justify-content-end">
+                            <div className="col-6 col-lg-6 col-md-4 p-set d-flex justify-content-end">
                                 <p><b>28 Items</b></p>
                             </div>
                         </div>

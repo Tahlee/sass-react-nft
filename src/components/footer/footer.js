@@ -13,7 +13,7 @@ const footer = () => {
                 <div className="row">
                     <div className="col-lg-4 col-md-4 col-12 p-lg-5 text-center p1-s-style">
                         <h5 className="ps-lg-4">crypter</h5>
-                        <div className="d-flex justify-content-end">
+                        <div className="d-flex justify-content-end mobile_r_f">
                             <p className="mt-4 col-12 col-lg-8 col-md-12">The New Creative Economy.</p>
                         </div>
                     </div>

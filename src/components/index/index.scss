@@ -30,7 +30,7 @@
 
 .img-row{
     img{
-        width:30%;
+        width: 30%!important;;
         height:50px;
     }
 }
@@ -275,15 +275,37 @@ font-size: 12px;
 
 @media only screen and (min-width:320px) and (max-width:767px){
 
-  
-    .seting{
+.mobile-r{
+    margin-top: 5%;
+}
+    .section_2{
         img{
-            width:80%;
+            width:100%;
         }
     }
+  .section_1{
+      p{
+          font-size: 13px;
+      }
+  }
+    .seting{
+        img{
+            width:100%;
+        }
+
+       
+    }
+
+    .section_5{
+        img{
+            width:100%;
+        }
+ 
+         } 
+        
     .mobile-r{
         h1{
-            font-size: 2.5rem;
+            font-size: 2rem;
         }
     }
     .img-set{
@@ -301,7 +323,7 @@ font-size: 12px;
         
     }
     .my-card{
-        width:18rem;
+        width:100%;
         margin-top: 7%;
         img{
             width: 35%;
@@ -311,7 +333,7 @@ font-size: 12px;
     .section-6{
 
 img{
-    width: 70%;
+    width: 100%;
 }
 .img-set-2{
     img{
@@ -324,7 +346,7 @@ img{
     } 
     .section_7{
         .h-s{
-            font-size: 2rem!important;
+            font-size: 1rem!important;
         }
 
     }
@@ -340,14 +362,32 @@ img{
 
 .mobile-r{
     h1{
-        font-size: 4rem;
+        font-size: 2.3rem;
     }
 
+}
+
+.fs-p-style{
+    p{
+        font-size: 12px;
+    }
+}
+
+.section_7 {
+    .h-s{
+        font-size: 2.3rem;
+    }
+}
+.section_5{
+
+    img{
+        width: 100%;
+    }
 }
 .section_2{
 
     img{
-        width: 100%;
+        width: 90%;
     }
 }
 
@@ -444,5 +484,25 @@ img{
             width: 9rem;
         }
 
+    }
+
+    @media only screen and (min-width:1440px) and (max-width:2560px){
+        .section_5{
+
+            img{
+                width: 100%;
+            }
+        }
+.img-set-2{
+
+    img{
+        width: 15%!important;
+    }
+}
+        .section-6{
+            img{
+                width: 100%;
+            }
+        }
     }
    
